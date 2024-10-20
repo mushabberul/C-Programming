@@ -11,7 +11,7 @@ int main(){
     // 4 kind of data type in C 
         // 1. integer = int 
         // 2. float = float
-        //3. charector = char
+        //3. character = char
         //4. boolean = bool
 
     // integer & float grab 4bype in RAM
@@ -23,8 +23,12 @@ int main(){
     // int number = 10;
     // printf("%d",number);
 
-    float TestFloat = 3.40;
-    printf("%0.2f",TestFloat);
+    // float TestFloat = 3.40;
+    // printf("%0.2f",TestFloat);
+    
+    //Character always single quotation
+    char TestCharacter = 'A';
+    printf("%c",TestCharacter);
 
     return 0;
 }
