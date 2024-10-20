@@ -3,7 +3,7 @@ int main(){
 
     // Calculation of memory size 
         // 1bit=0/1
-        // 1byte = 4bit
+        // 1byte = 8bit
         // 1kb = 1024byte
         // 1mb = 1024kb
         // 1gb = 1024mb
@@ -25,7 +25,7 @@ int main(){
 
     // float TestFloat = 3.40;
     // printf("%0.2f",TestFloat);
-    
+
     //Character always single quotation
     char TestCharacter = 'A';
     printf("%c",TestCharacter);
