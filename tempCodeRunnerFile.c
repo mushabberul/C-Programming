@@ -1,1 +1,1 @@
-printf("%c",a-32);
+arr[x]= y;
